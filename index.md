@@ -1,4 +1,4 @@
-## **欢迎来到 代码的荒原**
+
 <br>
 <br>
 
@@ -9,8 +9,8 @@
 
 ### **一首诗**
 
-#### 16位英特尔8088芯片
-*by* **Charles Bukowski**
+#### **16位英特尔8088芯片**
+*by* Charles Bukowski
 
 ```
 用苹果电脑
@@ -56,7 +56,7 @@ IBM个人电脑
 ### 原文
 
 #### **16-bit Intel 8088 chip**
-*by* **Charles Bukowski**
+*by* Charles Bukowski
  
 ```
 with an Apple Macintosh
