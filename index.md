@@ -1,4 +1,4 @@
-## **欢迎来到 代码的荒原**
+## **   欢迎来到  代码的荒原**
 <br>
 <br>
 
@@ -8,8 +8,8 @@
 
 ****
 ### **一首歌**
-	
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=300 height=86 src="http://music.163.com/outchain/player?type=2&id=22684158&auto=1&height=66"></iframe>
+
+<embed src="//music.163.com/style/swf/widget.swf?sid=22684158&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 ****
 ### **一首诗**
@@ -46,7 +46,7 @@ IBM个人电脑
 改变。
 
 但是风依然吹过
-萨凡纳
+萨凡
 
 而在春天
 
